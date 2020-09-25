@@ -1,0 +1,21 @@
+thead{
+    background-color: #117A65;
+    color: white;
+}
+
+.tablelist{
+    border: 2px solid #1ABC9C;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 25px;
+    position: relative;
+    width: 100%;
+}
+table,td,th{
+    width: 100%;
+    font-size: 20px;
+}
+
+td{
+    height: 74px;
+}

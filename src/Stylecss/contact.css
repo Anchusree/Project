@@ -1,0 +1,44 @@
+
+.feedback{
+    width: 50%;
+    height: 600px;
+    padding: 10px;
+    color:#06AAB8   ;
+}
+
+.row{
+    padding: 20px;
+}
+
+.submit{
+    margin: 15px;
+    padding: 20px;
+    width: 130px;
+    height: 50px;
+    text-align: center;
+    padding-top: 8px;
+    background-color: #0E6655;
+    font-size: 20px;
+    color: white;
+}
+.contact{
+    position: absolute;
+    right: -2px;
+    top: 480px;
+    width: 50%;
+    padding: 5px;
+    float: right;
+    text-align: -webkit-right;
+    margin-right: 20px;
+}
+
+.email{
+    color:#BA4A00;
+}
+.email a{
+    color:#BA4A00;
+} 
+
+.feedback-row{
+    border: 1px solid #06AAB8 ;
+}

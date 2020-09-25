@@ -1,0 +1,77 @@
+.header1{
+    width: 100%;
+    height: 50px;
+    background-color: maroon;
+    color: white;
+    text-align: end;
+    font-size: 20px;
+    padding-top: 10px;
+    margin:auto;
+    font-weight: 20px;
+    padding-right: 50px;
+    cursor: pointer;
+    position: fixed;
+    z-index: 9;
+}
+.justify-content-end{
+    color: #1F618D ;
+}
+.logo{
+    text-align: start;
+    margin: 15px;
+}
+.copyright{
+    text-align: center;
+    background-color: #212F3D;
+    color: white;
+    padding-top: 10px;
+}
+.footer{
+    background-color:  #800020 ;
+    height: 250px;
+
+}
+.header-img {
+    width: 100%;
+    text-align: center;
+}
+.top-left-text{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+   
+}
+.top-left-text h1{ 
+    font-size: 50px;
+    font-weight: 10px
+}
+.learnmore{
+    border: 1px solid #2a5298;
+    color: black;
+    padding: 10px 25px;
+    display: inline-block;
+    margin-top: 2em;
+    letter-spacing: 1px;
+    font-size: 19px;
+    font-weight: 60;
+}
+.learnmore a{
+    color:#1E8449  ;
+}
+.mission-text{
+    font-size: 40px;
+}
+.mission-para{
+    font-size: 20px;
+    color: gray;
+    
+}
+.mission{
+    background-color: black ;
+    color: white;
+}
+.container-fluid{
+    background-color: black ;
+}

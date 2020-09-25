@@ -1,0 +1,53 @@
+.formbttn a{
+    color: white;
+  
+ 
+}
+
+.join{
+    text-align: center;
+}
+.join img{
+    text-align: center;
+}
+.guidelines{
+    font-size: 25px;
+    width: 50%;
+    margin: 20px;
+    padding: 50px;
+   
+}
+.guidelines-card{
+    float: right;
+}
+ul li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.downloads{
+        position: absolute;
+        right: -2px;
+        top: 100px;
+        width: 50%;
+        padding: 5px;
+        float: right;
+        margin-right: 5px;
+    
+      
+}
+
+.formbttn{
+    background-color:#2874A6  ;
+    width: 200px;
+    height: 90px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.formbttn a:hover{
+    color: red;
+    font-size: 20px;
+}
+
